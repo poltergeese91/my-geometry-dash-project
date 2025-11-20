@@ -4,18 +4,18 @@ body {
     color: #ffffff;
     text-align: center;
     background-image: url("images/download.gif");
-    background-repeat: repeat;
+    background-size: cover;
     cursor: url("images/cursor.png") 16 16, auto;
 }
 h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
-    margin: 60px;
+    margin: 25px;
     text-align: center;
 }
 h2{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
-    margin: 75px;
+    margin: 140px;
     text-align: center;
 }
